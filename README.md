@@ -1,7 +1,6 @@
-# Demo
-changes
+# Daily
+6/27/2021
 
 
-local development
 
-have fun 
+
